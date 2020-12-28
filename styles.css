@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 10px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
@@ -57,3 +57,21 @@ footer {
 
 }
 
+.btn {
+  margin: 10px;
+}
+
+button{
+  width: 80px;
+  padding: 10px;
+  background-color: #4ECCA3;
+  border-radius: 10%;
+  border-color: #4ECCA3;
+  border-style: solid;
+  font-family: 'Indie Flower', cursive;
+  font-size: larger;
+  
+}
+button:hover{
+  transform: scale(1.1);
+}
